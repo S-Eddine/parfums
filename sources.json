@@ -1,0 +1,28 @@
+{
+  "_info": "Liens produits connus (tirés des commandes). Pour les parfums sans lien, chercher sur le site officiel de la marque.",
+  "sites": {
+    "IBRAQ": "https://ibraqperfumes.com (site officiel IBRAQ / Ibrahim Al Qurashi — vérifier le domaine exact)",
+    "Assaf": "https://3saf.com",
+    "Arabian Oud": "https://sa.arabianoud.com",
+    "Reef": "https://sa.reefperfumes.com"
+  },
+  "liens": {
+    "Wild Colt": "https://3saf.com/ar/wild-colt-assaf/p1370701860",
+    "Nomad": "https://3saf.com/ar/nomad/p558544826",
+    "I Am Here": "https://3saf.com/ar/i-am-here/p1370415483",
+    "Tobacco Jam": "https://3saf.com/ar/tobacco-jam/p1086955634",
+    "Blue Moon": "https://sa.arabianoud.com/en/0301020535-blue-moon-100-ml",
+    "Madawi": "https://sa.arabianoud.com/en/0301020517-madawi-200-ml",
+    "Taraf": "https://sa.arabianoud.com/en/0301020529-taraf-100-ml",
+    "Woody Intense": "https://sa.arabianoud.com/en/0301020223-woody-intense-100-ml",
+    "Yaqoot": "https://sa.arabianoud.com/en/0301020545-yaqoot-100-ml",
+    "Reef 33": "https://sa.reefperfumes.com/en/reef-33/p1243364177",
+    "Reef 33 White": "https://sa.reefperfumes.com/en/reef-33-white-body-perfume-pure-long-lasting-scent/p1221332845",
+    "Reef 27": "https://sa.reefperfumes.com/en/reef-27/p1683487187",
+    "Reef 31": "https://sa.reefperfumes.com/en/reef-31-100-ml/p1519831148",
+    "Arab Abaya": "https://sa.reefperfumes.com/en/abaya-arabs/p1602563613",
+    "Arab Diriyah": "https://sa.reefperfumes.com/en/arab-diriyah/p1254428707",
+    "Blanc Ash": "https://sa.reefperfumes.com/en/blanc-ash-perfume-a-luxurious-winter-scent-that-lasts/p943879799",
+    "Titan": "https://sa.reefperfumes.com/en/titan-perfume/p1817430672"
+  }
+}
